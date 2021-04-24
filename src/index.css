@@ -139,3 +139,33 @@ footer {
 .button.primary {
     background-color: #6d7ec9;
 }
+
+
+/* Filter */
+
+.filter {
+    display: flex;
+    padding: 1rem;
+    margin: 1rem;
+    justify-content: space-between;
+    border-bottom: 0.1rem #c0c0c0 solid;
+}
+
+.filter div {
+    flex: 1;
+}
+
+
+/* Filter */
+
+
+/* .filter {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 1rem;
+    border-bottom: 0.1rem #c0c0c0 solid;
+  }
+  .filter div {
+    flex: 1;
+  } */
